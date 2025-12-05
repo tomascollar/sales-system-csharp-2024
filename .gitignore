@@ -1,0 +1,25 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+*.user
+*.suo
+*.cache
+*.pdb
+
+# Logs
+*.log
+
+# Databases (if using local file-based DB)
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# Temporary files
+*.tmp
+*.temp
+
+# Publish directories
+publish/
